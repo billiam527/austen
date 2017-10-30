@@ -4,6 +4,7 @@ library(tm)
 library(wordcloud)
 library(janeaustenr)
 library(stringr)
+library(knitr)
 
 #Store the Jane Austen Books into a DF
 sns<-austen_books()
