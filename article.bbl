@@ -1,0 +1,13 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{silge and Robinson}{2017}]{Silge}
+silge, J. and Robinson, D. (2017).
+\newblock {\em text Mining with R: A Tidy Approach}.
+\newblock O'Reilly Media.
+
+\bibitem[\protect\astroncite{Wickham and Grolemund}{2017}]{Wickham}
+Wickham, H. and Grolemund, G. (2017).
+\newblock {\em R for Data Science: Import, Tidy, Transform and Model Data}.
+\newblock O'Reilly Media.
+
+\end{thebibliography}
